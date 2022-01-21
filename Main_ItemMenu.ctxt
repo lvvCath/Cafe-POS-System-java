@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Main_ItemMenu
+comment1.params=ItemID\ ItemName\ ItemPrice\ ItemStock
+comment1.target=Main_ItemMenu(int,\ java.lang.String,\ double,\ int)
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment11.params=obj
+comment11.target=boolean\ equals(java.lang.Object)
+comment11.text=\r\n\ Checks\ whether\ 2\ objects\ are\ equals\r\n\r\n\ @param\ \ \ \ obj\ Object\ to\ be\ compared\r\n\ @return\ \ \ true\ when\ account\ number\ are\ the\ same,\ false\ otherwise\r\n
+comment2.params=ItemID
+comment2.target=void\ modifyID(int)
+comment3.params=ItemName
+comment3.target=void\ modifyName(java.lang.String)
+comment4.params=ItemPrice
+comment4.target=void\ modifyPrice(double)
+comment5.params=ItemStock
+comment5.target=void\ modifyStock(int)
+comment6.params=
+comment6.target=java.lang.String\ getItemName()
+comment7.params=
+comment7.target=java.lang.Double\ getItemPrice()
+comment8.params=
+comment8.target=int\ getItemStock()
+comment9.params=
+comment9.target=int\ getItemID()
+numComments=12

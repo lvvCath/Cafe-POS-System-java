@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=OrderMenuFRAME
+comment1.params=loginFRAME
+comment1.target=OrderMenuFRAME(javax.swing.JFrame)
+comment1.text=\r\n\ Create\ the\ frame.\r\n
+comment2.params=
+comment2.target=void\ CreateSales()
+comment3.params=current
+comment3.target=void\ showMealFormFrame(Main_ItemMenu)
+comment4.params=
+comment4.target=void\ checkNavButtons()
+comment5.params=
+comment5.target=void\ updateTable()
+comment6.params=current
+comment6.target=void\ showDrinksFormFrame(Main_ItemMenu)
+comment7.params=
+comment7.target=void\ Drinks_checkNavButtons()
+comment8.params=
+comment8.target=void\ Drinks_updateTable()
+numComments=9

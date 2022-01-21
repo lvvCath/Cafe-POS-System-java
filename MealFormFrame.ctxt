@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MealFormFrame
+comment1.params=orderFrame\ mgr
+comment1.target=MealFormFrame(OrderMenuFRAME,\ MealMenu)
+comment2.params=Current
+comment2.target=void\ setMain(Main_ItemMenu)
+numComments=3
